@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1541623707 source:c:\users\final\desktop\psnr\psnr\main.cpp
+	<iostream>
+	<string>
+	<stdio.h>
+	<math.h>
+	<iomanip>
+
+1541626017 source:c:\users\final\desktop\okul 18-19 1. dönem\multimedia information systems\hw2\son\psnr\psnr\main.cpp
+	<iostream>
+	<string>
+	<stdio.h>
+	<math.h>
+	<iomanip>
+
