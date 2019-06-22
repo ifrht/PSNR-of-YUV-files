@@ -1,4 +1,4 @@
-# PSNR-of-YUV-files
+# PSNR of YUV Files
 Multimedia Information Systems ders projesidir.
 Projede verilen bir YUV dosyasının PSNR değeri hesaplanmıştır.
 Sample usage:
